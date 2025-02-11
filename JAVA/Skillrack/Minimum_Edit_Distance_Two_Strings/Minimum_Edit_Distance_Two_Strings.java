@@ -1,7 +1,6 @@
 package Minimum_Edit_Distance_Two_Strings;          //COMPLETED
 
 //REFERENCE --- https://www.youtube.com/watch?v=lizkwM1gmw4
-//ll
 import java.util.Scanner;
 
 public class Minimum_Edit_Distance_Two_Strings {
