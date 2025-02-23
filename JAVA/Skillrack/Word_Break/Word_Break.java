@@ -30,7 +30,6 @@ public class Word_Break {
         List<String> arr=new ArrayList<>();
         answer(str, hash, arr, 0);
         sc.close();
-
     }
 }
 
