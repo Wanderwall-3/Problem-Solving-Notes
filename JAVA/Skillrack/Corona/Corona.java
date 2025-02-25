@@ -1,4 +1,4 @@
-package Corona; //SUCESSFULL
+package Skillrack.Corona; //SUCESSFULL
 
 import java.util.HashMap;
 import java.util.Scanner;

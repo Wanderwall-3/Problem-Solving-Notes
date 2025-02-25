@@ -1,4 +1,4 @@
-package Single_Source_Shortest_Path;
+package Skillrack.Single_Source_Shortest_Path;
 
 //REFERENCE --- https://www.youtube.com/watch?v=5YHc2sR8S4o  https://www.youtube.com/watch?v=L9hTD6Ck7Y4
 

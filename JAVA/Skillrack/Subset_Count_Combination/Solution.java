@@ -1,4 +1,4 @@
-package Subset_Count_Combination;
+package Skillrack.Subset_Count_Combination;
 
 //REFERENCE --- https://www.youtube.com/watch?v=HARX1OyVqdg  https://www.youtube.com/watch?v=idDVJ1CWvSo
 

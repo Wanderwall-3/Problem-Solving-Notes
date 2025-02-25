@@ -1,4 +1,4 @@
-package Longest_Awesome_Substring;
+package Skillrack.Longest_Awesome_Substring;
 
 import java.util.HashMap;
 

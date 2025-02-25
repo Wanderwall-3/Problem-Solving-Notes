@@ -1,4 +1,4 @@
-package Leetcode198;
+package Leetcode.Leetcode198;
 
 public class Solution {
 

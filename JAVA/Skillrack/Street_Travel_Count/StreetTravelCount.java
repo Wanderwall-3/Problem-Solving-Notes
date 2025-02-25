@@ -1,4 +1,4 @@
-package Street_Travel_Count;
+package Skillrack.Street_Travel_Count;
 import java.util.HashMap;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Minimum_Edit_Distance_Two_Strings;          //COMPLETED
+package Skillrack.Minimum_Edit_Distance_Two_Strings;          //COMPLETED
 
 //REFERENCE --- https://www.youtube.com/watch?v=lizkwM1gmw4
 import java.util.Scanner;

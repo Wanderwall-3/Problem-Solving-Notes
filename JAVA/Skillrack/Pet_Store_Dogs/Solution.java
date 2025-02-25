@@ -1,4 +1,4 @@
-package Pet_Store_Dogs;
+package Skillrack.Pet_Store_Dogs;
 
 import java.math.BigInteger;
 import java.util.Arrays;

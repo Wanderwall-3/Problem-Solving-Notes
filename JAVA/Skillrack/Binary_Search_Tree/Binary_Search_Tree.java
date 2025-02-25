@@ -1,4 +1,4 @@
-package Binary_Search_Tree; //Completed it have "find" and "insert" methods
+package Skillrack.Binary_Search_Tree; //Completed it have "find" and "insert" methods
 
 import java.util.*;
 

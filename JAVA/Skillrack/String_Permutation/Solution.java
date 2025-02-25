@@ -1,4 +1,4 @@
-package String_Permutation;
+package Skillrack.String_Permutation;
 
 import java.util.HashSet;
 

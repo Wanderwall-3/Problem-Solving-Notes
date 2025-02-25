@@ -1,4 +1,4 @@
-package JAVA.Waste;
+package Waste;
 import java.util.*;
 public class Nto1Recurstion {
     public static void main(String[] args) {

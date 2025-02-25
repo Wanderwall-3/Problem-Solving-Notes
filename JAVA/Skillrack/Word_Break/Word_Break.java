@@ -1,4 +1,4 @@
-package Word_Break;   //Completed
+package Skillrack.Word_Break;   //Completed
 
 import java.util.*;
 

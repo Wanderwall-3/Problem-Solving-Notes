@@ -1,4 +1,4 @@
-package Minimum_Jumps_to_Reach_End;
+package Skillrack.Minimum_Jumps_to_Reach_End;
 
 //REFERENCE: https://www.youtube.com/watch?v=JUH4Ayb373g https://www.youtube.com/watch?v=Yhxzu9S75Bw
 

@@ -1,4 +1,4 @@
-package Vendor_Maximum_Profit;
+package Skillrack.Vendor_Maximum_Profit;
 
 //REFERENCE ----https://www.youtube.com/watch?v=kpoXaH_ZRbc https://www.youtube.com/watch?v=_JGgKyUnQWA
 

@@ -1,3 +1,5 @@
+package GFG;
+
 import java.util.Scanner;
 
 public class Waste {

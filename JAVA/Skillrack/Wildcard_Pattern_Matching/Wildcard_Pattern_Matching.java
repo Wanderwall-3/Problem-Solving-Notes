@@ -1,4 +1,4 @@
-package Wildcard_Pattern_Matching;           //COMPLETE
+package Skillrack.Wildcard_Pattern_Matching;           //COMPLETE
 
 //REFERENCE: https://www.youtube.com/watch?v=g7KXWiiOtbA  https://www.youtube.com/watch?v=BotnSue5_eA
 

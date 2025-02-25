@@ -1,4 +1,4 @@
-package JAVA.Waste;
+package Waste;
 
 import java.util.Arrays;
 

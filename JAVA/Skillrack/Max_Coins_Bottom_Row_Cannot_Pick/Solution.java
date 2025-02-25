@@ -1,4 +1,4 @@
-package Max_Coins_Bottom_Row_Cannot_Pick;                   //COMPLETED
+package Skillrack.Max_Coins_Bottom_Row_Cannot_Pick;                   //COMPLETED
 
 import java.util.Arrays;
 
